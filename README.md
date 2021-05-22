@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseongho)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseongho&exclude_repo=TaskHub,model2_project,spring_restful_board,spring_project)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
